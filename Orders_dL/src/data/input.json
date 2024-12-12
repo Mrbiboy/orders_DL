@@ -1,0 +1,18 @@
+[
+  {
+    "customer_email": "alice.dupont@example.com",
+    "amount": 120.50
+  },
+  {
+    "customer_email": "bob.martin@example.com",
+    "amount": 85.75
+  },
+  {
+    "customer_email": "inconnu@example.com",
+    "amount": 50.00
+  },
+  {
+    "customer_email": "Anas@example.com",
+    "amount": 10.00
+  }
+]
